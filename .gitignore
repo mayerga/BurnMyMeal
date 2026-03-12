@@ -9,3 +9,7 @@ backend/venv/
 
 # Environment
 .env
+
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
