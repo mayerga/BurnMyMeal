@@ -1,0 +1,1 @@
+<!-- Todo el recuadro derecho donde se renderiza el mapa. -->

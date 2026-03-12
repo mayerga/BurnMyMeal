@@ -1,0 +1,1 @@
+<!-- La barra superior con el logo "🔥 BurnMyMeal". -->

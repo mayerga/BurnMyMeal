@@ -1,0 +1,2 @@
+<!-- Mostrar las calorías y los alimentos extraídos por la IA. -->
+ <!-- Recibirá los datos analizados (calories, foodItems) desde el padre vía props. Es un componente "tonto" (presentacional); solo formatea y muestra datos. -->
